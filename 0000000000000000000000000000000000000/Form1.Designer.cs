@@ -44,14 +44,14 @@ namespace _0000000000000000000000000000000000000
             "л"});
             this.comboBox1.Location = new System.Drawing.Point(13, 13);
             this.comboBox1.Name = "comboBox1";
-            this.comboBox1.Size = new System.Drawing.Size(775, 21);
+            this.comboBox1.Size = new System.Drawing.Size(379, 21);
             this.comboBox1.TabIndex = 0;
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(396, 450);
             this.Controls.Add(this.comboBox1);
             this.Name = "Form1";
             this.Text = "Form1";
